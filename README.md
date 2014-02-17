@@ -1,4 +1,4 @@
-library-archetype
+maven-library-archetype
 =================
 
 Maven archetype tutorial
